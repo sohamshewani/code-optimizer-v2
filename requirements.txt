@@ -1,0 +1,7 @@
+click
+rich
+pytest
+click-help-colors
+sqlite3
+mccabe
+astroid
